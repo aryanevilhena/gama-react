@@ -1,0 +1,13 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+}
+
+body{
+    background: rgb(112, 90, 173);
+    background-image: url('./logo-github.png');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 30vh;
+    
+}
